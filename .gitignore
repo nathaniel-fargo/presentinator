@@ -1,0 +1,22 @@
+# KiCad backup files
+*-bak
+*-backups/
+*-cache*
+
+# KiCad temporary files
+_autosave*
+#auto_saved_files#
+
+# KiCad local project settings
+*.kicad_prl
+
+# Kicad generated raw files
+hw/export
+
+# Other temporary or system-generated files
+*~
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
