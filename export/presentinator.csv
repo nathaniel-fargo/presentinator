@@ -1,5 +1,6 @@
 "Reference","Qty","Value","Footprint","DK_PN","Stocked"
-"BT1,BT2","2","CR2032","Aloe:BAT_BAT-HLD-003-SMT","1908-CR2032-ND ",""
+"BT1","1","CR2032","Aloe:BAT_BAT-HLD-003-SMT","1908-CR2032-ND ",""
+"BT2","1","CR2032","Aloe:BAT_BAT-HLD-003-SMT","343-BAT-HLD-003-SMT-ND ",""
 "C1,C2,C3,C4,C5,C6,C7","7","4u7","Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder","","y"
 "CB1","1","Touch Me","TestPoint:TestPoint_Pad_1.0x1.0mm","","y"
 "D25","1","RB521S30T1G","Diode_SMD:D_SOD-523","","y"
