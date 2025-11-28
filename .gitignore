@@ -5,7 +5,8 @@
 
 # KiCad temporary files
 _autosave*
-#auto_saved_files#
+\#auto_saved_files#
+*.lck
 
 # KiCad local project settings
 *.kicad_prl
